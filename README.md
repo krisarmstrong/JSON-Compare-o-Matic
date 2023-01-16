@@ -1,5 +1,4 @@
 # JSON-Compare-o-Matic
-## JSON Comparison Tool
 
 This tool allows you to compare an arbitrary number of JSON files and view the differences between them.
 
